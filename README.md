@@ -14,13 +14,13 @@ Welcome to my BHARAT INTERN Internship project repository! Here, you will find a
 ## Tasks
 
 - **Task 1: Portfolio Website**
-  - [Link to Task 1](task1/)
+  - [https://github.com/Sabbir45ali/BHARAT-INTERN/tree/master/Task%201](task1/)
 
 - **Task 2: Temperature Converter Website**
-  - [Link to Task 2](task2/)
+  - [https://github.com/Sabbir45ali/BHARAT-INTERN/tree/master/Task%202](task2/)
 
 - **Task 3: Netflix Landing Page Website**
-  - [Link to Task 3](task3/)
+  - [https://github.com/Sabbir45ali/BHARAT-INTERN/tree/master/Task%203](task3/)
 
 ## Project Descriptions
 
